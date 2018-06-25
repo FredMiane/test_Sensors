@@ -1,0 +1,17 @@
+{
+    "Lidar": {
+        "Number" : 1,   
+        "MinRange": 10,
+        "MaxRange": 30
+    },
+    "Sonar": {
+        "Number" : 2,
+        "MinRange": 0,
+        "MaxRange": 13
+    },
+    "Switch": {
+        "Number" : 3,
+        "MinRange": 0,
+        "MaxRange": 1
+    }
+}
