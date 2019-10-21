@@ -13,7 +13,7 @@ command-not-found==0.3
 cycler==0.10.0
 decorator==4.2.1
 defer==1.0.6
-ecdsa==0.13
+ecdsa==0.13.3
 entrypoints==0.2.3
 enum34==1.1.6
 feedparser==5.1.3
